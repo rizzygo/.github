@@ -1,0 +1,20 @@
+name: Erro
+description: Algo não funciona ou está errado
+labels: [erro]
+body:
+  - type: textarea
+    id: oque
+    attributes:
+      label: O que aconteceu?
+      description: Conte o que você viu e onde (link da página, se tiver).
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: O que você esperava?
+  - type: input
+    id: ambiente
+    attributes:
+      label: Navegador e aparelho
+      placeholder: Chrome no celular Android
