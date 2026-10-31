@@ -13,9 +13,9 @@ Tecnologia para pessoas. A Rizzygo ajuda pessoas a entrar e crescer em tecnologi
 
 O site da Rizzygo fica em [rizzygo.com.br](https://rizzygo.com.br).
 
-## Ako, Mentoria e Empresas
+## All, Mentoria e Empresas
 
-- **Iniciativa Ako:** conteúdo aberto e gratuito, de todos para todos. O Ako e os Favos estão no ar, e o Rumo e o Papo de Colmeia estão em construção. É a casa da Zumi, a abelha da Rizzygo All: onde ela aparece, é gratuito.
+- **Rizzygo All: (Ako)** conteúdo aberto e gratuito, de todos para todos. O Ako e os Favos estão no ar, e o Rumo e o Papo de Colmeia estão em construção. É a casa da Zumi, a abelha da Rizzygo All: onde ela aparece, é gratuito.
 - **Rizzygo Mentoria:** o Zygo Way, mentoria individual com o fundador, como investimento particular, em dois programas: Cloud, DevOps, SRE e Platform Engineering; e De Júnior a Especialista ou Tech Lead.
 - **Rizzygo Empresas:** Kumo, Métis e Tékne, para times que querem ganhar maturidade em tecnologia.
 
