@@ -15,8 +15,8 @@ O site da Rizzygo fica em [rizzygo.com.br](https://rizzygo.com.br).
 
 ## All, Mentoria e Empresas
 
-- **Rizzygo All: (Ako)** conteúdo aberto e gratuito, de todos para todos. O Ako e os Favos estão no ar, e o Rumo e o Papo de Colmeia estão em construção. É a casa da Zumi, a abelha da Rizzygo All: onde ela aparece, é gratuito.
-- **Rizzygo Mentoria:** o Zygo Way, mentoria individual com o fundador, como investimento particular, em dois programas: Cloud, DevOps, SRE e Platform Engineering; e De Júnior a Especialista ou Tech Lead.
+- **Rizzygo All: (Ako)** conteúdo aberto e gratuito, de todos para todos. O Ako (trilhas, mapas, materiais e a Rotina da Zumi) e os Favos estão no ar, e o Papo de Colmeia está em construção. É a casa da Zumi, a abelha da Rizzygo All: onde ela aparece, é gratuito.
+- **Rizzygo Mentoria:** o Zygo Way, mentoria individual com o fundador, como investimento particular, em dois programas: Cloud, DevOps, SRE e Platform Engineering; e a Rota Y, do primeiro cargo a especialista ou tech lead.
 - **Rizzygo Empresas:** Kumo, Métis e Tékne, para times que querem ganhar maturidade em tecnologia.
 
 Achou um erro ou tem uma ideia? Abra uma issue no repositório do assunto. Para conversar, fale com o fundador, Danilo Rizzo, no [LinkedIn](https://www.linkedin.com/in/danilo-rizzo-20bb6982).
