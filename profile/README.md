@@ -1,6 +1,6 @@
 # Rizzygo
 
-![A Zumi, abelha da Rizzygo All, acenando ao lado do texto "Rizzygo All: comunidade e conteúdo gratuito"](banner-rizzygo-all.png)
+![A Zumi, abelha da Rizzygo All, acenando ao lado do texto "Rizzygo All: comunidade e conteúdo gratuito"](banner-rizzygo-zumi.png)
 
 Tecnologia para pessoas. A Rizzygo ajuda pessoas a entrar e crescer em tecnologia, começando por uma comunidade aberta e gratuita.
 
